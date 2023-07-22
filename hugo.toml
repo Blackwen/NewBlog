@@ -1,4 +1,4 @@
-baseURL = 'new-blog-1sz0sdigi-vinkon.vercel.app'
+baseURL = 'new-blog-seven.vercel.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "nightfall"
